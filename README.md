@@ -1,24 +1,11 @@
-# README
+# Cleo e Artes
+<p align="center">
+<img src="https://s14.postimg.org/kena2mp3l/21106817_1502747076459632_5950946991384718873_n.png">
+</p>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Desenvolvedores do Projeto
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+|              **Nome**                |            **_Email_**             |     **GitHub** |
+|:-------------------------------:|:---------------------------:|:---------------------------:| 
+|Cléube de Freitas Souza	   |<cleubefs@gmail.com>| [cluebefs](https://github.com/cluebefs)|
+|Lucas Soares Souza   |<lucas.soaresouza@gmail.com>| [lucassoaresouza](https://github.com/lucassoaresouza)|
